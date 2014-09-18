@@ -11,3 +11,5 @@ The stage for displaying the video can be zoom and pan which is build using QGra
 
 === License ===
 This application and all the source code files are release under GPLv3. For a complete license, please visit: http://www.gnu.org/licenses/gpl.html
+
+Leong Hong You
